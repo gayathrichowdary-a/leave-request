@@ -2,35 +2,37 @@
 
 # 📸 Project Screenshots
 
-<div align="center">
+---
 
 ## 🏠 Home Page
 
-<img src="home page.png" alt="Home Page" width="900"/>
-
-<br><br>
-
-## 📤 Leave Request Form
-
-<img src="upload page.png" alt="Leave Request Form" width="900"/>
-
-<br><br>
-
-## ✅ Request Submitted Successfully
-
-<img src="result page.png" alt="Request Submitted" width="900"/>
-
-</div>
+<p align="center">
+  <img src="home-page.png" alt="Home Page" width="900"/>
+</p>
 
 ---
 
-# 🔗 N8N Workflow Architecture
+## 📤 Leave Request Form
 
-<div align="center">
+<p align="center">
+  <img src="upload-page.png" alt="Leave Request Form" width="900"/>
+</p>
 
-<img src="n8n workflow.jpeg" alt="N8N Workflow Architecture" width="900"/>
+---
 
-</div>
+## ✅ Request Submitted Successfully
+
+<p align="center">
+  <img src="result-page.png" alt="Request Submitted Successfully" width="900"/>
+</p>
+
+---
+
+## 🔗 N8N Workflow Architecture
+
+<p align="center">
+  <img src="n8n-workflow.jpeg" alt="N8N Workflow Architecture" width="900"/>
+</p>
 
 ---
 
