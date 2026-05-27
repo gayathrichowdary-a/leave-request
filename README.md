@@ -21,6 +21,11 @@
 
 </div>
 
+## N8N workflow architecture
+<img scr="result%20page.png" alt = "Request Submitted" width="900"/>
+
+</div>
+
 ---
 
 # 🛠️ Tools & Technologies Used
