@@ -22,6 +22,7 @@
 </div>
 
 ## N8N workflow architecture
+<div align="center">
 
 <img src="result%20page.png" alt = "N8N workflow architecture" width="900"/>
 
