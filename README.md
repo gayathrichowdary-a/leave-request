@@ -1,30 +1,34 @@
 # leave-request
+
 # 📸 Project Screenshots
 
 <div align="center">
 
 ## 🏠 Home Page
 
-<img src="home%20page.png" alt="Home Page" width="900"/>
+<img src="home page.png" alt="Home Page" width="900"/>
 
 <br><br>
 
 ## 📤 Leave Request Form
 
-<img src="upload%20page.png" alt="Leave Request Form" width="900"/>
+<img src="upload page.png" alt="Leave Request Form" width="900"/>
 
 <br><br>
 
 ## ✅ Request Submitted Successfully
 
-<img src="result%20page.png" alt="Request Submitted" width="900"/>
+<img src="result page.png" alt="Request Submitted" width="900"/>
 
 </div>
 
-## N8N workflow architecture
+---
+
+# 🔗 N8N Workflow Architecture
+
 <div align="center">
 
-<img src="result%20page.png" alt = "N8N workflow architecture" width="900"/>
+<img src="n8n workflow.png" alt="N8N Workflow Architecture" width="900"/>
 
 </div>
 
@@ -56,5 +60,6 @@
 - Real-time request submission feedback  
 
 ---
-# Author 
-A.Gayathri
+
+# 👩‍💻 Author  
+A. Gayathri
