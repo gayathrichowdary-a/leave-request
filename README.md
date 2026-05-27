@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="n8n workflow.png" alt="N8N Workflow Architecture" width="900"/>
+<img src="n8n workflow.jpeg" alt="N8N Workflow Architecture" width="900"/>
 
 </div>
 
