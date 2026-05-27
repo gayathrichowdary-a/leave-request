@@ -1,5 +1,3 @@
-# leave-request
-
 # 📸 Project Screenshots
 
 ---
@@ -7,7 +5,7 @@
 ## 🏠 Home Page
 
 <p align="center">
-  <img src="home-page.png" alt="Home Page" width="900"/>
+  <img src="home page.png" alt="Home Page" width="900"/>
 </p>
 
 ---
@@ -15,7 +13,7 @@
 ## 📤 Leave Request Form
 
 <p align="center">
-  <img src="upload-page.png" alt="Leave Request Form" width="900"/>
+  <img src="upload page.png" alt="Leave Request Form" width="900"/>
 </p>
 
 ---
@@ -23,7 +21,7 @@
 ## ✅ Request Submitted Successfully
 
 <p align="center">
-  <img src="result-page.png" alt="Request Submitted Successfully" width="900"/>
+  <img src="result page.png" alt="Request Submitted Successfully" width="900"/>
 </p>
 
 ---
@@ -31,11 +29,9 @@
 ## 🔗 N8N Workflow Architecture
 
 <p align="center">
-  <img src="n8n-workflow.jpeg" alt="N8N Workflow Architecture" width="900"/>
+  <img src="Workflow Architecture.jpeg" alt="N8N Workflow Architecture" width="900"/>
 </p>
-
 ---
-
 # 🛠️ Tools & Technologies Used
 
 | Technology | Purpose |
