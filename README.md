@@ -23,7 +23,7 @@
 
 ## N8N workflow architecture
 
-<img scr="result%20page.png" alt = "Request Submitted" width="900"/>
+<img scr="result%20page.png" alt = "N8N workflow architecture" width="900"/>
 
 </div>
 
